@@ -3,7 +3,6 @@
 
 import { motion } from 'framer-motion';
 import Button from '@/components/Button';
-import { ArrowRightIcon } from '@heroicons/react/24/outline';
 
 export default function CtaBanner() {
   return (

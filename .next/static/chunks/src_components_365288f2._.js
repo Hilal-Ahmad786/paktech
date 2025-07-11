@@ -90,21 +90,21 @@ function BlogHero() {
                 className: " absolute top-0 left-1/2 w-1/2 h-full bg-white/10 transform -translate-x-1/2 -skew-x-12 pointer-events-none "
             }, void 0, false, {
                 fileName: "[project]/src/components/BlogHero.tsx",
-                lineNumber: 26,
+                lineNumber: 25,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute -bottom-16 right-10 w-72 h-72 bg-white/10 rounded-full blur-3xl pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/BlogHero.tsx",
-                lineNumber: 35,
+                lineNumber: 34,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute -top-16 left-10 w-56 h-56 bg-white/5 rounded-full blur-2xl pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/BlogHero.tsx",
-                lineNumber: 36,
+                lineNumber: 35,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -118,7 +118,7 @@ function BlogHero() {
                         children: "Bilgi Merkezi & Blog"
                     }, void 0, false, {
                         fileName: "[project]/src/components/BlogHero.tsx",
-                        lineNumber: 44,
+                        lineNumber: 43,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -127,14 +127,14 @@ function BlogHero() {
                             "Uzman görüşleri, rehberler ve en son dijital trendlerle",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                 fileName: "[project]/src/components/BlogHero.tsx",
-                                lineNumber: 48,
+                                lineNumber: 47,
                                 columnNumber: 64
                             }, this),
                             "işinizi bir adım öne taşıyın."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/BlogHero.tsx",
-                        lineNumber: 47,
+                        lineNumber: 46,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -147,24 +147,24 @@ function BlogHero() {
                             children: "Tüm Yazılara Göz At"
                         }, void 0, false, {
                             fileName: "[project]/src/components/BlogHero.tsx",
-                            lineNumber: 57,
+                            lineNumber: 56,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/components/BlogHero.tsx",
-                        lineNumber: 51,
+                        lineNumber: 50,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/BlogHero.tsx",
-                lineNumber: 38,
+                lineNumber: 37,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/BlogHero.tsx",
-        lineNumber: 17,
+        lineNumber: 16,
         columnNumber: 5
     }, this);
 }
@@ -243,19 +243,19 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$heroicons$
 const featuredPosts = [
     {
         title: 'Next.js ile Çok Dilli E-Ticaret Platformu',
-        image: '/images/blog-nextjs-ecommerce.jpg',
+        image: '/images/Blogs/Next.png',
         excerpt: 'Next.js’in ISR & SSR özellikleriyle performansı artırdığımız, Shopify entegrasyonlu çok dilli e-ticaret projemizin detayları.',
         href: '/blog/nextjs-cok-dilli-e-ticaret'
     },
     {
         title: 'Python Botlarla Web Scraping Otomasyonu',
-        image: '/images/blog-python-scraping.jpg',
+        image: '/images/Blogs/Python.png',
         excerpt: 'Telegram, Instagram ve web siteleri için geliştirdiğimiz uçtan uca veri toplama botlarıyla %80 zaman tasarrufu sağladık.',
         href: '/blog/python-web-scraping-otomasyonu'
     },
     {
         title: 'React Native ile Finans Uygulaması Geliştirme',
-        image: '/images/blog-react-native-fintech.jpg',
+        image: '/images/Blogs/mobile.png',
         excerpt: '50K+ indirme başarısına ulaşan mobil finans uygulamamızın mimarisi, entegrasyonları ve UI/UX süreci.',
         href: '/blog/react-native-finans-uygulamasi'
     }
@@ -429,7 +429,7 @@ var _s = __turbopack_context__.k.signature();
 const posts = [
     {
         title: 'Next.js ile Çok Dilli E-Ticaret Platformu',
-        image: '/images/blog-nextjs-ecommerce.jpg',
+        image: '/images/Blogs/Next.png',
         excerpt: 'ISR & SSR optimizasyonlarıyla performansı artırdığımız, Shopify entegrasyonlu çok dilli e-ticaret projesi.',
         href: '/blog/nextjs-cok-dilli-e-ticaret',
         date: '2025-07-01',
@@ -438,7 +438,7 @@ const posts = [
     },
     {
         title: 'Python Botlarla Web Scraping Otomasyonu',
-        image: '/images/blog-python-scraping.jpg',
+        image: '/images/Blogs/Python.png',
         excerpt: 'Telegram ve Instagram botlarıyla veri toplama sürecini %80 hızlandırdık.',
         href: '/blog/python-web-scraping-otomasyonu',
         date: '2025-06-25',
@@ -447,7 +447,7 @@ const posts = [
     },
     {
         title: 'React Native ile Finans Uygulaması Geliştirme',
-        image: '/images/blog-react-native-fintech.jpg',
+        image: '/images/Blogs/mobile.png',
         excerpt: '50K+ indirme başarısına ulaşan finans uygulamamızın mimarisi ve entegrasyonları.',
         href: '/blog/react-native-finans-uygulamasi',
         date: '2025-06-10',
@@ -456,7 +456,7 @@ const posts = [
     },
     {
         title: 'Makine Öğrenmesi ile Talep Tahminleri',
-        image: '/images/blog-ml-forecast.jpg',
+        image: '/images/Blogs/Dashboard.png',
         excerpt: 'Özelleştirilmiş ML modelleri kullanarak %95 doğrulukla satış tahminleri yaptık.',
         href: '/blog/machine-learning-tahmin-sistemleri',
         date: '2025-05-30',
@@ -465,7 +465,7 @@ const posts = [
     },
     {
         title: 'Headless CMS ile Çoklu Dil Yönetimi',
-        image: '/images/blog-headless-cms.jpg',
+        image: '/images/Blogs/CMS.png',
         excerpt: 'Next.js + Strapi entegrasyonu sayesinde içerikleri merkezi olarak yönettik.',
         href: '/blog/headless-cms-coklu-dil-yonetimi',
         date: '2025-05-15',
@@ -474,7 +474,7 @@ const posts = [
     },
     {
         title: 'UI/UX Tasarımda En İyi Uygulamalar',
-        image: '/images/blog-ui-ux.jpg',
+        image: '/images/Blogs/ui.png',
         excerpt: 'Kullanıcı odaklı ara yüz tasarımlarında takip ettiğimiz 5 temel prensip.',
         href: '/blog/ui-ux-tasarim-prensipleri',
         date: '2025-05-01',
@@ -483,7 +483,7 @@ const posts = [
     },
     {
         title: 'CI/CD Pipeline Kurulumu ile Süreç Otomasyonu',
-        image: '/images/blog-ci-cd.jpg',
+        image: '/images/Blogs/devops.png',
         excerpt: 'Jenkins ve GitHub Actions kullanarak otomatik test & deploy hattı kurduk.',
         href: '/blog/ci-cd-pipeline-otomasyonu',
         date: '2025-04-20',
@@ -492,7 +492,7 @@ const posts = [
     },
     {
         title: 'Shopify Performans Optimizasyon Tüyoları',
-        image: '/images/blog-shopify-performance.jpg',
+        image: '/images/Blogs/shopify.png',
         excerpt: 'Sayfa yükleme sürelerini 0.5s’ye kadar düşüren 7 pratik ipucu.',
         href: '/blog/shopify-performance-ipuclari',
         date: '2025-04-05',
@@ -643,7 +643,7 @@ function TabbedPostsSection() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3",
-                        children: displayPosts.map((post, idx)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        children: displayPosts.map((post)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "bg-gray-50 rounded-2xl overflow-hidden shadow hover:shadow-lg transition flex flex-col",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
@@ -771,91 +771,87 @@ function TechApproachSection() {
     const techs = [
         {
             name: 'Next.js',
-            logo: '/icons/nextjs.svg'
+            logo: '/images/Tech/nextdotjs.svg'
         },
         {
             name: 'Express.js',
-            logo: '/icons/express.svg'
+            logo: '/images/Tech/express.svg'
         },
         {
             name: 'React Native',
-            logo: '/icons/react-native.svg'
+            logo: '/images/Tech/reactNative.svg'
         },
         {
             name: 'Python',
-            logo: '/icons/python.svg'
+            logo: '/images/Tech/python.svg'
         },
         {
             name: 'spaCy',
-            logo: '/icons/spacy.svg'
-        },
-        {
-            name: 'NLTK',
-            logo: '/icons/nltk.svg'
+            logo: '/images/Tech/spacy.svg'
         },
         {
             name: 'TensorFlow',
-            logo: '/icons/tensorflow.svg'
+            logo: '/images/Tech/tensorflow.svg'
         },
         {
             name: 'PyTorch',
-            logo: '/icons/pytorch.svg'
+            logo: '/images/Tech/pytorch.svg'
         },
         {
             name: 'Hugging Face',
-            logo: '/icons/huggingface.svg'
+            logo: '/images/Tech/huggingface.svg'
         },
         {
             name: 'OpenCV',
-            logo: '/icons/opencv.svg'
+            logo: '/images/Tech/opencv.svg'
         },
         {
             name: 'WordPress',
-            logo: '/icons/wordpress.svg'
+            logo: '/images/Tech/wordpress.svg'
         },
         {
             name: 'WooCommerce',
-            logo: '/icons/woocommerce.svg'
+            logo: '/images/Tech/woocommerce.svg'
         },
         {
             name: 'Shopify',
-            logo: '/icons/shopify.svg'
+            logo: '/images/Tech/shopify.svg'
         },
         {
             name: 'MERN Stack',
-            logo: '/icons/mern.svg'
+            logo: '/images/Tech/Mern.png'
         },
         {
             name: 'MongoDB',
-            logo: '/icons/mongodb.svg'
+            logo: '/images/Tech/mongodb.svg'
         },
         {
             name: 'Node.js',
-            logo: '/icons/nodejs.svg'
+            logo: '/images/Tech/nodedotjs.svg'
         },
         {
             name: 'Docker',
-            logo: '/icons/docker.svg'
+            logo: '/images/Tech/docker.svg'
         },
         {
             name: 'Kubernetes',
-            logo: '/icons/kubernetes.svg'
+            logo: '/images/Tech/kubernetes.svg'
         },
         {
             name: 'AWS',
-            logo: '/icons/aws.svg'
+            logo: '/images/Tech/aws.png'
         },
         {
             name: 'Jenkins',
-            logo: '/icons/jenkins.svg'
+            logo: '/images/Tech/jenkins.svg'
         },
         {
             name: 'GitHub Actions',
-            logo: '/icons/github-actions.svg'
+            logo: '/images/Tech/githubactions.svg'
         },
         {
             name: 'Tailwind CSS',
-            logo: '/icons/tailwind-css.svg'
+            logo: '/images/Tech/tailwindcss.svg'
         }
     ];
     const steps = [
@@ -892,14 +888,14 @@ function TechApproachSection() {
                 className: "absolute -top-16 -left-16 w-72 h-72 bg-[#FFB800]/20 rounded-full blur-3xl pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                lineNumber: 71,
+                lineNumber: 70,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute -bottom-16 -right-16 w-96 h-96 bg-[#1E531B]/20 rounded-full blur-3xl pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                lineNumber: 72,
+                lineNumber: 71,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -911,7 +907,7 @@ function TechApproachSection() {
                         className: "text-center mb-16"
                     }, void 0, false, {
                         fileName: "[project]/src/components/TechApproachSection.tsx",
-                        lineNumber: 75,
+                        lineNumber: 74,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -940,7 +936,7 @@ function TechApproachSection() {
                                                 className: "w-12 h-12 object-contain mb-2"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                lineNumber: 92,
+                                                lineNumber: 91,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -948,18 +944,18 @@ function TechApproachSection() {
                                                 children: name
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                lineNumber: 97,
+                                                lineNumber: 96,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, name, true, {
                                         fileName: "[project]/src/components/TechApproachSection.tsx",
-                                        lineNumber: 85,
+                                        lineNumber: 84,
                                         columnNumber: 15
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                                lineNumber: 83,
+                                lineNumber: 82,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -985,12 +981,12 @@ function TechApproachSection() {
                                                     className: "w-6 h-6 text-[#1E531B]"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                    lineNumber: 113,
+                                                    lineNumber: 112,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                lineNumber: 112,
+                                                lineNumber: 111,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1000,7 +996,7 @@ function TechApproachSection() {
                                                         children: title
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                        lineNumber: 116,
+                                                        lineNumber: 115,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1008,42 +1004,42 @@ function TechApproachSection() {
                                                         children: desc
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                        lineNumber: 119,
+                                                        lineNumber: 118,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                lineNumber: 115,
+                                                lineNumber: 114,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, title, true, {
                                         fileName: "[project]/src/components/TechApproachSection.tsx",
-                                        lineNumber: 105,
+                                        lineNumber: 104,
                                         columnNumber: 15
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                                lineNumber: 103,
+                                lineNumber: 102,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/TechApproachSection.tsx",
-                        lineNumber: 81,
+                        lineNumber: 80,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                lineNumber: 74,
+                lineNumber: 73,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/TechApproachSection.tsx",
-        lineNumber: 69,
+        lineNumber: 68,
         columnNumber: 5
     }, this);
 }
@@ -1437,7 +1433,7 @@ function CtaBanner() {
                 className: "absolute inset-0 bg-[url('/pattern-diagonal.svg')] opacity-5 pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/CtaBanner.tsx",
-                lineNumber: 22,
+                lineNumber: 21,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1453,31 +1449,31 @@ function CtaBanner() {
                         className: "text-[#FFB800]/20"
                     }, void 0, false, {
                         fileName: "[project]/src/components/CtaBanner.tsx",
-                        lineNumber: 32,
+                        lineNumber: 31,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/components/CtaBanner.tsx",
-                    lineNumber: 26,
+                    lineNumber: 25,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/components/CtaBanner.tsx",
-                lineNumber: 25,
+                lineNumber: 24,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute -top-16 -left-16 w-64 h-64 bg-[#FFB800]/20 rounded-full blur-3xl pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/CtaBanner.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute -bottom-20 -right-10 w-72 h-72 bg-[#1E531B]/20 rounded-full blur-2xl pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/CtaBanner.tsx",
-                lineNumber: 42,
+                lineNumber: 41,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1498,7 +1494,7 @@ function CtaBanner() {
                         children: "Projeyi Birlikte Hayata Geçirelim!"
                     }, void 0, false, {
                         fileName: "[project]/src/components/CtaBanner.tsx",
-                        lineNumber: 45,
+                        lineNumber: 44,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
@@ -1516,7 +1512,7 @@ function CtaBanner() {
                         children: "Modüler otomasyon ve e-ticaret altyapısıyla işinizi hızlandırın."
                     }, void 0, false, {
                         fileName: "[project]/src/components/CtaBanner.tsx",
-                        lineNumber: 54,
+                        lineNumber: 53,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1542,29 +1538,29 @@ function CtaBanner() {
                                 children: "Hemen İletişime Geç"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/CtaBanner.tsx",
-                                lineNumber: 75,
+                                lineNumber: 74,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/components/CtaBanner.tsx",
-                            lineNumber: 69,
+                            lineNumber: 68,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/components/CtaBanner.tsx",
-                        lineNumber: 63,
+                        lineNumber: 62,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/CtaBanner.tsx",
-                lineNumber: 44,
+                lineNumber: 43,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/CtaBanner.tsx",
-        lineNumber: 10,
+        lineNumber: 9,
         columnNumber: 5
     }, this);
 }

@@ -3,7 +3,6 @@
 
 import { useEffect, useState } from 'react';
 import Button from '@/components/Button';
-import { ArrowRightIcon } from '@heroicons/react/24/outline';
 
 export default function BlogHero() {
   const [mounted, setMounted] = useState(false);

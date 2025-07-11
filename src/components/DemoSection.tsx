@@ -9,19 +9,19 @@ const demoItems = [
   {
     id: 'hepsi',
     title: 'Hepsiburada → Shopify Bot',
-    img: '/screens/gui.png',
+    img: '/images/Demo/ShopifyBot.png',
     metrics: '500 ürün, 10 dk içinde senkronizasyon',
   },
   {
     id: 'maps',
     title: 'Google Maps Otel Botu',
-    img: '/screens/googleApi.png',
+    img: '/images/Demo/GoogleAPİ.png',
     metrics: '200 otel, 5 dk içinde veri toplama',
   },
   {
     id: 'seo',
     title: 'SEO & Google Ads Kampanyası',
-    img: '/screens/ads.png',
+    img: '/images/Demo/Ankarapert1.png',
     metrics: 'CTR +25%, CPC -15%',
   },
 ]

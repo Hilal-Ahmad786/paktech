@@ -76,21 +76,21 @@ function ProjectsHero() {
                 className: " absolute top-0 left-1/2 w-1/2 h-full bg-white/10 transform -translate-x-1/2 -skew-x-12 pointer-events-none "
             }, void 0, false, {
                 fileName: "[project]/src/components/ProjectsHero.tsx",
-                lineNumber: 26,
+                lineNumber: 25,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute -bottom-16 right-10 w-72 h-72 bg-white/10 rounded-full blur-3xl pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/ProjectsHero.tsx",
-                lineNumber: 35,
+                lineNumber: 34,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute -top-16 left-10 w-56 h-56 bg-white/5 rounded-full blur-2xl pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/ProjectsHero.tsx",
-                lineNumber: 36,
+                lineNumber: 35,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -104,7 +104,7 @@ function ProjectsHero() {
                         children: "Öne Çıkan Projelerimiz"
                     }, void 0, false, {
                         fileName: "[project]/src/components/ProjectsHero.tsx",
-                        lineNumber: 44,
+                        lineNumber: 43,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -113,14 +113,14 @@ function ProjectsHero() {
                             "Modüler otomasyon, e-ticaret, AI ve mobil çözümlerimizden seçtiğimiz",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                 fileName: "[project]/src/components/ProjectsHero.tsx",
-                                lineNumber: 48,
+                                lineNumber: 47,
                                 columnNumber: 77
                             }, this),
                             "başarı hikâyelerini aşağıda keşfedin."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/ProjectsHero.tsx",
-                        lineNumber: 47,
+                        lineNumber: 46,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -133,24 +133,24 @@ function ProjectsHero() {
                             children: "Tüm Projeler"
                         }, void 0, false, {
                             fileName: "[project]/src/components/ProjectsHero.tsx",
-                            lineNumber: 57,
+                            lineNumber: 56,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/components/ProjectsHero.tsx",
-                        lineNumber: 51,
+                        lineNumber: 50,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/ProjectsHero.tsx",
-                lineNumber: 38,
+                lineNumber: 37,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/ProjectsHero.tsx",
-        lineNumber: 17,
+        lineNumber: 16,
         columnNumber: 5
     }, this);
 }
@@ -252,49 +252,49 @@ const categories = [
 const projects = [
     {
         title: 'E-Ticaret Platformu',
-        image: '/images/case-ecommerce.jpg',
+        image: '/images/Projects/Ecomerece.png',
         summary: 'Shopify+Next.js ile satışları %120 artıran çok dilli mağaza.',
         href: '/projects/e-ticaret-platformu',
         category: 'ecommerce'
     },
     {
         title: 'Python Otomasyon Botu',
-        image: '/images/case-automation.jpg',
+        image: '/images/Projects/PythonBot.png',
         summary: 'Manuel veri toplama sürecini %80 hızlandıran scraping akışı.',
         href: '/projects/python-otomasyon-botu',
         category: 'automation'
     },
     {
         title: 'Mobil Finans Uygulaması',
-        image: '/images/case-mobile.jpg',
+        image: '/images/Projects/Mobile.png',
         summary: 'React Native ile iOS/Android’da 50K+ indirme başarısı.',
         href: '/projects/mobil-finans-uygulamasi',
         category: 'mobile'
     },
     {
         title: 'Makine Öğrenmesi Platformu',
-        image: '/images/case-ai.jpg',
+        image: '/images/Projects/Data.png',
         summary: 'Talep tahmininde %95 doğruluk sağlayan ML modeli.',
         href: '/projects/ml-platform',
         category: 'ai'
     },
     {
         title: 'Kurumsal Web Sitesi',
-        image: '/images/case-web.jpg',
+        image: '/images/Projects/Website.png',
         summary: 'Modern tasarım ve SEO optimizasyonlu Next.js sitesi.',
         href: '/projects/kurumsal-web',
         category: 'web'
     },
     {
         title: 'UI/UX Prototip Çalışması',
-        image: '/images/case-design.jpg',
+        image: '/images/Projects/Ui.png',
         summary: 'Figma’da interaktif prototip ile kullanıcı testi.',
         href: '/projects/ui-ux-prototip',
         category: 'design'
     },
     {
         title: 'CI/CD Pipeline Kurulumu',
-        image: '/images/case-devops.jpg',
+        image: '/images/Projects/devops.png',
         summary: 'Jenkins & Kubernetes entegre CI/CD hattı.',
         href: '/projects/devops-pipeline',
         category: 'devops'
@@ -709,7 +709,7 @@ function FeaturedCaseStudySection() {
                                 },
                                 className: "relative",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                    src: "/images/featured-case-ecommerce.png",
+                                    src: "/images/Demo/ShopifyBot.png",
                                     alt: "E-Ticaret Platformu",
                                     className: "w-full rounded-2xl shadow-lg"
                                 }, void 0, false, {
@@ -768,91 +768,87 @@ function TechApproachSection() {
     const techs = [
         {
             name: 'Next.js',
-            logo: '/icons/nextjs.svg'
+            logo: '/images/Tech/nextdotjs.svg'
         },
         {
             name: 'Express.js',
-            logo: '/icons/express.svg'
+            logo: '/images/Tech/express.svg'
         },
         {
             name: 'React Native',
-            logo: '/icons/react-native.svg'
+            logo: '/images/Tech/reactNative.svg'
         },
         {
             name: 'Python',
-            logo: '/icons/python.svg'
+            logo: '/images/Tech/python.svg'
         },
         {
             name: 'spaCy',
-            logo: '/icons/spacy.svg'
-        },
-        {
-            name: 'NLTK',
-            logo: '/icons/nltk.svg'
+            logo: '/images/Tech/spacy.svg'
         },
         {
             name: 'TensorFlow',
-            logo: '/icons/tensorflow.svg'
+            logo: '/images/Tech/tensorflow.svg'
         },
         {
             name: 'PyTorch',
-            logo: '/icons/pytorch.svg'
+            logo: '/images/Tech/pytorch.svg'
         },
         {
             name: 'Hugging Face',
-            logo: '/icons/huggingface.svg'
+            logo: '/images/Tech/huggingface.svg'
         },
         {
             name: 'OpenCV',
-            logo: '/icons/opencv.svg'
+            logo: '/images/Tech/opencv.svg'
         },
         {
             name: 'WordPress',
-            logo: '/icons/wordpress.svg'
+            logo: '/images/Tech/wordpress.svg'
         },
         {
             name: 'WooCommerce',
-            logo: '/icons/woocommerce.svg'
+            logo: '/images/Tech/woocommerce.svg'
         },
         {
             name: 'Shopify',
-            logo: '/icons/shopify.svg'
+            logo: '/images/Tech/shopify.svg'
         },
         {
             name: 'MERN Stack',
-            logo: '/icons/mern.svg'
+            logo: '/images/Tech/Mern.png'
         },
         {
             name: 'MongoDB',
-            logo: '/icons/mongodb.svg'
+            logo: '/images/Tech/mongodb.svg'
         },
         {
             name: 'Node.js',
-            logo: '/icons/nodejs.svg'
+            logo: '/images/Tech/nodedotjs.svg'
         },
         {
             name: 'Docker',
-            logo: '/icons/docker.svg'
+            logo: '/images/Tech/docker.svg'
         },
         {
             name: 'Kubernetes',
-            logo: '/icons/kubernetes.svg'
+            logo: '/images/Tech/kubernetes.svg'
         },
         {
             name: 'AWS',
-            logo: '/icons/aws.svg'
+            logo: '/images/Tech/aws.png'
         },
         {
             name: 'Jenkins',
-            logo: '/icons/jenkins.svg'
+            logo: '/images/Tech/jenkins.svg'
         },
         {
             name: 'GitHub Actions',
-            logo: '/icons/github-actions.svg'
+            logo: '/images/Tech/githubactions.svg'
         },
         {
             name: 'Tailwind CSS',
-            logo: '/icons/tailwind-css.svg'
+            logo: '/images/Tech/tailwindcss.svg'
         }
     ];
     const steps = [
@@ -889,14 +885,14 @@ function TechApproachSection() {
                 className: "absolute -top-16 -left-16 w-72 h-72 bg-[#FFB800]/20 rounded-full blur-3xl pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                lineNumber: 71,
+                lineNumber: 70,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute -bottom-16 -right-16 w-96 h-96 bg-[#1E531B]/20 rounded-full blur-3xl pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                lineNumber: 72,
+                lineNumber: 71,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -908,7 +904,7 @@ function TechApproachSection() {
                         className: "text-center mb-16"
                     }, void 0, false, {
                         fileName: "[project]/src/components/TechApproachSection.tsx",
-                        lineNumber: 75,
+                        lineNumber: 74,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -937,7 +933,7 @@ function TechApproachSection() {
                                                 className: "w-12 h-12 object-contain mb-2"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                lineNumber: 92,
+                                                lineNumber: 91,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -945,18 +941,18 @@ function TechApproachSection() {
                                                 children: name
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                lineNumber: 97,
+                                                lineNumber: 96,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, name, true, {
                                         fileName: "[project]/src/components/TechApproachSection.tsx",
-                                        lineNumber: 85,
+                                        lineNumber: 84,
                                         columnNumber: 15
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                                lineNumber: 83,
+                                lineNumber: 82,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -982,12 +978,12 @@ function TechApproachSection() {
                                                     className: "w-6 h-6 text-[#1E531B]"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                    lineNumber: 113,
+                                                    lineNumber: 112,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                lineNumber: 112,
+                                                lineNumber: 111,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -997,7 +993,7 @@ function TechApproachSection() {
                                                         children: title
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                        lineNumber: 116,
+                                                        lineNumber: 115,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1005,42 +1001,42 @@ function TechApproachSection() {
                                                         children: desc
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                        lineNumber: 119,
+                                                        lineNumber: 118,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                                                lineNumber: 115,
+                                                lineNumber: 114,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, title, true, {
                                         fileName: "[project]/src/components/TechApproachSection.tsx",
-                                        lineNumber: 105,
+                                        lineNumber: 104,
                                         columnNumber: 15
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                                lineNumber: 103,
+                                lineNumber: 102,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/TechApproachSection.tsx",
-                        lineNumber: 81,
+                        lineNumber: 80,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/TechApproachSection.tsx",
-                lineNumber: 74,
+                lineNumber: 73,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/TechApproachSection.tsx",
-        lineNumber: 69,
+        lineNumber: 68,
         columnNumber: 5
     }, this);
 }
@@ -1411,7 +1407,7 @@ function CtaBanner() {
                 className: "absolute inset-0 bg-[url('/pattern-diagonal.svg')] opacity-5 pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/CtaBanner.tsx",
-                lineNumber: 22,
+                lineNumber: 21,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1427,31 +1423,31 @@ function CtaBanner() {
                         className: "text-[#FFB800]/20"
                     }, void 0, false, {
                         fileName: "[project]/src/components/CtaBanner.tsx",
-                        lineNumber: 32,
+                        lineNumber: 31,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/components/CtaBanner.tsx",
-                    lineNumber: 26,
+                    lineNumber: 25,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/components/CtaBanner.tsx",
-                lineNumber: 25,
+                lineNumber: 24,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute -top-16 -left-16 w-64 h-64 bg-[#FFB800]/20 rounded-full blur-3xl pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/CtaBanner.tsx",
-                lineNumber: 41,
+                lineNumber: 40,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "absolute -bottom-20 -right-10 w-72 h-72 bg-[#1E531B]/20 rounded-full blur-2xl pointer-events-none"
             }, void 0, false, {
                 fileName: "[project]/src/components/CtaBanner.tsx",
-                lineNumber: 42,
+                lineNumber: 41,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1472,7 +1468,7 @@ function CtaBanner() {
                         children: "Projeyi Birlikte Hayata Geçirelim!"
                     }, void 0, false, {
                         fileName: "[project]/src/components/CtaBanner.tsx",
-                        lineNumber: 45,
+                        lineNumber: 44,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].p, {
@@ -1490,7 +1486,7 @@ function CtaBanner() {
                         children: "Modüler otomasyon ve e-ticaret altyapısıyla işinizi hızlandırın."
                     }, void 0, false, {
                         fileName: "[project]/src/components/CtaBanner.tsx",
-                        lineNumber: 54,
+                        lineNumber: 53,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1516,29 +1512,29 @@ function CtaBanner() {
                                 children: "Hemen İletişime Geç"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/CtaBanner.tsx",
-                                lineNumber: 75,
+                                lineNumber: 74,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/components/CtaBanner.tsx",
-                            lineNumber: 69,
+                            lineNumber: 68,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/components/CtaBanner.tsx",
-                        lineNumber: 63,
+                        lineNumber: 62,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/CtaBanner.tsx",
-                lineNumber: 44,
+                lineNumber: 43,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/CtaBanner.tsx",
-        lineNumber: 10,
+        lineNumber: 9,
         columnNumber: 5
     }, this);
 }

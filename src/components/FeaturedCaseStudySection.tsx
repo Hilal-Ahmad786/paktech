@@ -89,7 +89,7 @@ export default function FeaturedCaseStudySection() {
             className="relative"
           >
             <img
-              src="/images/featured-case-ecommerce.png"
+              src="/images/Demo/ShopifyBot.png"
               alt="E-Ticaret Platformu"
               className="w-full rounded-2xl shadow-lg"
             />

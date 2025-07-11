@@ -114,7 +114,7 @@ export default function ContactSection() {
             {/* Map */}
             <div className="h-60 rounded-xl overflow-hidden shadow-lg">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18…"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3066.503671658509!2d34.797728675449754!3d39.7732507945532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4080770251e0e48d%3A0xe1a01c5b46b28aa7!2sBozok%20Teknopark%20A.%C5%9E.!5e0!3m2!1sen!2str!4v1752268868653!5m2!1sen!2str"
                 className="w-full h-full"
                 allowFullScreen
                 loading="lazy"
@@ -122,7 +122,6 @@ export default function ContactSection() {
               />
             </div>
           </div>
-
           {/* Contact Form */}
           <form
             onSubmit={handleSubmit}

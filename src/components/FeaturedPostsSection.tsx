@@ -9,21 +9,21 @@ import { ArrowRightIcon } from '@heroicons/react/24/outline';
 const featuredPosts = [
   {
     title: 'Next.js ile Çok Dilli E-Ticaret Platformu',
-    image: '/images/blog-nextjs-ecommerce.jpg',
+    image: '/images/Blogs/Next.png',
     excerpt:
       'Next.js’in ISR & SSR özellikleriyle performansı artırdığımız, Shopify entegrasyonlu çok dilli e-ticaret projemizin detayları.',
     href: '/blog/nextjs-cok-dilli-e-ticaret',
   },
   {
     title: 'Python Botlarla Web Scraping Otomasyonu',
-    image: '/images/blog-python-scraping.jpg',
+    image: '/images/Blogs/Python.png',
     excerpt:
       'Telegram, Instagram ve web siteleri için geliştirdiğimiz uçtan uca veri toplama botlarıyla %80 zaman tasarrufu sağladık.',
     href: '/blog/python-web-scraping-otomasyonu',
   },
   {
     title: 'React Native ile Finans Uygulaması Geliştirme',
-    image: '/images/blog-react-native-fintech.jpg',
+    image: '/images/Blogs/mobile.png',
     excerpt:
       '50K+ indirme başarısına ulaşan mobil finans uygulamamızın mimarisi, entegrasyonları ve UI/UX süreci.',
     href: '/blog/react-native-finans-uygulamasi',

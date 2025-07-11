@@ -9,7 +9,7 @@ import { ArrowRightIcon } from '@heroicons/react/24/outline';
 const posts = [
   {
     title: 'Next.js ile Çok Dilli E-Ticaret Platformu',
-    image: '/images/blog-nextjs-ecommerce.jpg',
+    image: '/images/Blogs/Next.png',
     excerpt:
       'ISR & SSR optimizasyonlarıyla performansı artırdığımız, Shopify entegrasyonlu çok dilli e-ticaret projesi.',
     href: '/blog/nextjs-cok-dilli-e-ticaret',
@@ -19,7 +19,7 @@ const posts = [
   },
   {
     title: 'Python Botlarla Web Scraping Otomasyonu',
-    image: '/images/blog-python-scraping.jpg',
+    image: '/images/Blogs/Python.png',
     excerpt:
       'Telegram ve Instagram botlarıyla veri toplama sürecini %80 hızlandırdık.',
     href: '/blog/python-web-scraping-otomasyonu',
@@ -29,7 +29,7 @@ const posts = [
   },
   {
     title: 'React Native ile Finans Uygulaması Geliştirme',
-    image: '/images/blog-react-native-fintech.jpg',
+    image: '/images/Blogs/mobile.png',
     excerpt:
       '50K+ indirme başarısına ulaşan finans uygulamamızın mimarisi ve entegrasyonları.',
     href: '/blog/react-native-finans-uygulamasi',
@@ -39,7 +39,7 @@ const posts = [
   },
   {
     title: 'Makine Öğrenmesi ile Talep Tahminleri',
-    image: '/images/blog-ml-forecast.jpg',
+    image: '/images/Blogs/Dashboard.png',
     excerpt:
       'Özelleştirilmiş ML modelleri kullanarak %95 doğrulukla satış tahminleri yaptık.',
     href: '/blog/machine-learning-tahmin-sistemleri',
@@ -49,7 +49,7 @@ const posts = [
   },
   {
     title: 'Headless CMS ile Çoklu Dil Yönetimi',
-    image: '/images/blog-headless-cms.jpg',
+    image: '/images/Blogs/CMS.png',
     excerpt:
       'Next.js + Strapi entegrasyonu sayesinde içerikleri merkezi olarak yönettik.',
     href: '/blog/headless-cms-coklu-dil-yonetimi',
@@ -59,7 +59,7 @@ const posts = [
   },
   {
     title: 'UI/UX Tasarımda En İyi Uygulamalar',
-    image: '/images/blog-ui-ux.jpg',
+    image: '/images/Blogs/ui.png',
     excerpt:
       'Kullanıcı odaklı ara yüz tasarımlarında takip ettiğimiz 5 temel prensip.',
     href: '/blog/ui-ux-tasarim-prensipleri',
@@ -69,7 +69,7 @@ const posts = [
   },
   {
     title: 'CI/CD Pipeline Kurulumu ile Süreç Otomasyonu',
-    image: '/images/blog-ci-cd.jpg',
+    image: '/images/Blogs/devops.png',
     excerpt:
       'Jenkins ve GitHub Actions kullanarak otomatik test & deploy hattı kurduk.',
     href: '/blog/ci-cd-pipeline-otomasyonu',
@@ -79,7 +79,7 @@ const posts = [
   },
   {
     title: 'Shopify Performans Optimizasyon Tüyoları',
-    image: '/images/blog-shopify-performance.jpg',
+    image: '/images/Blogs/shopify.png',
     excerpt:
       'Sayfa yükleme sürelerini 0.5s’ye kadar düşüren 7 pratik ipucu.',
     href: '/blog/shopify-performance-ipuclari',
@@ -198,7 +198,7 @@ export default function TabbedPostsSection() {
 
         {/* Posts Grid */}
         <div className="grid gap-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-          {displayPosts.map((post, idx) => (
+          {displayPosts.map((post) => (
             <div
               key={post.href}
               className="bg-gray-50 rounded-2xl overflow-hidden shadow hover:shadow-lg transition flex flex-col"
