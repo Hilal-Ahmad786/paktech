@@ -84,7 +84,7 @@ export default function ClientJourneyRoadmap() {
         />
 
         <div className="relative grid grid-cols-1 md:grid-cols-9 gap-y-12">
-          {/* Vertical spine */}
+          {/* Vertical spine line on desktop */}
           <div className="hidden md:block col-span-1 absolute inset-y-0 left-1/2 w-px bg-gray-200 -translate-x-1/2" />
 
           {steps.map((step, idx) => {
@@ -114,9 +114,9 @@ export default function ClientJourneyRoadmap() {
                   style={{ backgroundColor: color }}
                 />
 
-                {/* Card */}
+                {/* Step Card */}
                 <div className="relative mt-4 p-6 bg-gray-50 rounded-xl shadow hover:shadow-lg transition-all">
-                  {/* Accent stripe on card side */}
+                  {/* Accent stripe */}
                   <div
                     className={`hidden md:block absolute top-0 bottom-0 w-1 ${
                       isLeft ? 'left-full' : 'right-full'
