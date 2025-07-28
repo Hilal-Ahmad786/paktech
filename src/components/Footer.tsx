@@ -35,7 +35,7 @@ export default function Footer() {
             <p>PakTechnology Yazılım Ltd. Şti.</p>
             <p>Yozgat Bozok Üniversitesi</p>
             <p>Bozok Teknopark, Çekerek Yolu 10. Km</p>
-            <p>+90 552 567 771 64</p>
+            <p>+90 552 567 71 64</p>
             <p>
               <Link href="mailto:info@paktechnology.com" className="hover:text-[#FFB800] transition-colors">
                 info@paktechnology.com

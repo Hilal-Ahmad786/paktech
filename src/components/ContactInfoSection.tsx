@@ -13,7 +13,7 @@ export default function ContactInfoSection() {
     {
       Icon: PhoneIcon,
       label: 'Telefon',
-      value: '+90 552 567 771 64',
+      value: '+90 552 567 71 64',
     },
     {
       Icon: HomeIcon,
