@@ -84,7 +84,7 @@ export default function ContactSection() {
               </svg>
               <div>
                 <h4 className="font-semibold text-gray-700">Telefon</h4>
-                <p className="text-gray-600">+90 552 567 771 64</p>
+                <p className="text-gray-600">+90 552 567 71 64</p>
               </div>
             </div>
 
